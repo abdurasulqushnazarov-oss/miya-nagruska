@@ -1,14 +1,14 @@
-let familiyasi = "Eshimboyev";
-const nechanchi_yil = "2009";
-let imtihondan_otdimi = true;
-let havo_harorati = "19°C";
-const okeanNomi = "Tinch okeani";
+const familiyasi = "Eshimboyev"; //string
+const nechanchi_yil = "2009"; //number
+let imtihondan_otdimi = true; //boolean
+let havo_harorati = "19°C"; //string
+const okeanNomi = "Tinch okeani"; //string
 
-let ismi = "Izzatulloh";
-let yosh = 16;
-let shahar = "Farg'ona";
-const it_akademiyasi = "Najot Ta'lim";
-let dasturchimanmi = true;
+let ismi = "Izzatulloh"; //string
+let yosh = 16; //number
+let shahar = "Farg'ona"; //string
+const it_akademiyasi = "Najot Ta'lim"; //string
+let dasturchimanmi = true; //boolean
 
 console.log(familiyasi);
 console.log(nechanchi_yil);
